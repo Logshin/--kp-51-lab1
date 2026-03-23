@@ -1,0 +1,15 @@
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\bin\Debug\net10.0\src.exe
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\bin\Debug\net10.0\src.deps.json
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\bin\Debug\net10.0\src.runtimeconfig.json
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\bin\Debug\net10.0\src.dll
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\bin\Debug\net10.0\src.pdb
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.GeneratedMSBuildEditorConfig.editorconfig
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.AssemblyInfoInputs.cache
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.AssemblyInfo.cs
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.csproj.CoreCompileInputs.cache
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.sourcelink.json
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.dll
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\refint\src.dll
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.pdb
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\src.genruntimeconfig.cache
+F:\KPI\semester2\ASD\B--kp-51-lab1\src\obj\Debug\net10.0\ref\src.dll
